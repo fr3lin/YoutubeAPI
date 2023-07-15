@@ -8,3 +8,7 @@ Create a project in the [Google Developers Console](https://console.developers.g
 
 ## YouTube Data API Documentation
 [YouTube Data API](https://developers.google.com/youtube/v3)
+
+## Good to Know
+- Projects that enable the YouTube Data API have a default quota allocation of **10,000 units per day**
+- [YouTube Data API (v3) - Quota Calculator](https://developers.google.com/youtube/v3/determine_quota_cost)
